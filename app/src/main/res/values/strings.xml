@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Android1</string>
+    <string name="Homework_1">Homework 1</string>
+    <string name="edit_me">Edit me</string>
+    <string name="change_layout">Change layout</string>
+    <string name="hit_me">Hit me</string>
+    <string name="toggle_button">Toggle button</string>
+    <string name="test_text">Test text</string>
+    <string name="test_text_person_name">Test text person name</string>
+    <string name="test_phone_type">Test phone type</string>
+    <string name="test_number">Test number</string>
+    <string name="test_password">Test Password</string>
+    <string name="test_email">Test email</string>
+    <string name="test_date_type">Test date type</string>
+    <string name="back">Return</string>
 </resources>
